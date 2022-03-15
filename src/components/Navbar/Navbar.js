@@ -38,8 +38,8 @@ export default function Navbar() {
                         </Link>
                     </li>
                     <li className='nav-item'>
-                        <Link to='/services' className='nav-links' onClick={closeMobileMenu}>
-                            Services
+                        <Link to='/gallery' className='nav-links' onClick={closeMobileMenu}>
+                            Gallery
                         </Link>
                     </li>
                     <li className='nav-item'>
